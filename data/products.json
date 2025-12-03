@@ -1,0 +1,92 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Laptop Gaming Pro X",
+    "category": "Electronics",
+    "price": 1299.99,
+    "brand": "TechMax",
+    "stock": 45,
+    "description": "High-performance gaming laptop with RTX graphics"
+  },
+  {
+    "product_id": "P002",
+    "name": "Wireless Headphones Elite",
+    "category": "Electronics",
+    "price": 249.99,
+    "brand": "SoundWave",
+    "stock": 120,
+    "description": "Premium noise-cancelling wireless headphones"
+  },
+  {
+    "product_id": "P003",
+    "name": "Smart Watch Series 5",
+    "category": "Wearables",
+    "price": 399.99,
+    "brand": "FitTech",
+    "stock": 85,
+    "description": "Advanced fitness tracking and health monitoring"
+  },
+  {
+    "product_id": "P004",
+    "name": "4K Ultra HD Camera",
+    "category": "Photography",
+    "price": 899.99,
+    "brand": "PhotoPro",
+    "stock": 32,
+    "description": "Professional mirrorless camera with 4K video"
+  },
+  {
+    "product_id": "P005",
+    "name": "Mechanical Keyboard RGB",
+    "category": "Accessories",
+    "price": 159.99,
+    "brand": "KeyMaster",
+    "stock": 200,
+    "description": "RGB mechanical keyboard with custom switches"
+  },
+  {
+    "product_id": "P006",
+    "name": "Portable Power Bank 20000mAh",
+    "category": "Accessories",
+    "price": 49.99,
+    "brand": "ChargeMax",
+    "stock": 150,
+    "description": "High-capacity portable charger with fast charging"
+  },
+  {
+    "product_id": "P007",
+    "name": "Bluetooth Speaker Waterproof",
+    "category": "Audio",
+    "price": 79.99,
+    "brand": "SoundWave",
+    "stock": 95,
+    "description": "Waterproof portable speaker with 360° sound"
+  },
+  {
+    "product_id": "P008",
+    "name": "Gaming Mouse Pro",
+    "category": "Accessories",
+    "price": 89.99,
+    "brand": "GameGear",
+    "stock": 175,
+    "description": "High-precision gaming mouse with programmable buttons"
+  },
+  {
+    "product_id": "P009",
+    "name": "USB-C Hub Multiport",
+    "category": "Accessories",
+    "price": 39.99,
+    "brand": "ConnectPro",
+    "stock": 220,
+    "description": "7-in-1 USB-C hub with HDMI and card readers"
+  },
+  {
+    "product_id": "P010",
+    "name": "Wireless Mouse Ergonomic",
+    "category": "Accessories",
+    "price": 29.99,
+    "brand": "ComfortTech",
+    "stock": 300,
+    "description": "Ergonomic wireless mouse for all-day comfort"
+  }
+]

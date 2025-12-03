@@ -1,0 +1,82 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Carlos Mendoza",
+    "email": "carlos.mendoza@email.com",
+    "region": "North",
+    "customer_type": "Premium",
+    "age": 32,
+    "interests": ["Electronics", "Gaming"],
+    "join_date": "2023-01-15"
+  },
+  {
+    "user_id": "U002",
+    "name": "María García",
+    "email": "maria.garcia@email.com",
+    "region": "South",
+    "customer_type": "Regular",
+    "age": 28,
+    "interests": ["Wearables", "Fitness"],
+    "join_date": "2023-03-22"
+  },
+  {
+    "user_id": "U003",
+    "name": "Juan Rodríguez",
+    "email": "juan.rodriguez@email.com",
+    "region": "East",
+    "customer_type": "Premium",
+    "age": 45,
+    "interests": ["Photography", "Electronics"],
+    "join_date": "2022-11-08"
+  },
+  {
+    "user_id": "U004",
+    "name": "Ana López",
+    "email": "ana.lopez@email.com",
+    "region": "West",
+    "customer_type": "Regular",
+    "age": 24,
+    "interests": ["Audio", "Music"],
+    "join_date": "2023-06-14"
+  },
+  {
+    "user_id": "U005",
+    "name": "Pedro Sánchez",
+    "email": "pedro.sanchez@email.com",
+    "region": "North",
+    "customer_type": "VIP",
+    "age": 38,
+    "interests": ["Gaming", "Electronics"],
+    "join_date": "2022-05-20"
+  },
+  {
+    "user_id": "U006",
+    "name": "Laura Martínez",
+    "email": "laura.martinez@email.com",
+    "region": "South",
+    "customer_type": "Regular",
+    "age": 31,
+    "interests": ["Accessories", "Office"],
+    "join_date": "2023-08-30"
+  },
+  {
+    "user_id": "U007",
+    "name": "Diego Torres",
+    "email": "diego.torres@email.com",
+    "region": "East",
+    "customer_type": "Premium",
+    "age": 29,
+    "interests": ["Gaming", "Accessories"],
+    "join_date": "2023-02-17"
+  },
+  {
+    "user_id": "U008",
+    "name": "Sofia Ramírez",
+    "email": "sofia.ramirez@email.com",
+    "region": "West",
+    "customer_type": "VIP",
+    "age": 35,
+    "interests": ["Wearables", "Photography"],
+    "join_date": "2022-09-12"
+  }
+]
