@@ -2,6 +2,14 @@
 
 Real-time data streaming system using Apache Kafka to simulate and analyze user behavior events on an e-commerce platform.
 
+## Team Members
+
+* Mario David Hernández Pantoja 
+* Gerardo Hernández Widman
+* Luis Arturo Michel Pérez
+* Braulio Jesus Pérez Tamayo
+* Oscar Martinez Estevez
+
 ## 📋 Description
 
 This project implements a distributed event architecture that simulates user interactions with products (views, add to cart, remove from cart, purchases) and processes these events in real-time to generate metrics and behavior analysis.
